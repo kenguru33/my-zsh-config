@@ -17,5 +17,5 @@ npm install --global pure-prompt
 Install zshrc:
 
 ```bash
-git clone https://xxx ~/.config/zsh
+git clone https://github.com/kenguru33/my-zsh-config.git ~/.config/zsh
 ```
