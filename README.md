@@ -19,3 +19,7 @@ Install zshrc:
 ```bash
 git clone https://github.com/kenguru33/my-zsh-config.git ~/.config/zsh
 ```
+Install zsh-syntax-highlighting
+```bash
+brew install zsh-syntax-highlighting
+```
